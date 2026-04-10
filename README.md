@@ -11,7 +11,7 @@ Welcome to the **Anagram Checker**! This is a simple web application that allows
 
 ## 🚀 Live Demo
 
-Check out the live version here: [https://iam269.github.io/Anagram-Checker/](https://iam269.github.io/Anagram-Checker/)
+Check out the live version here: [https://itsiamdev.github.io/Anagram-Checker/](https://itsiamdev.github.io/Anagram-Checker/)
 
 ## 📁 Project Structure
 
